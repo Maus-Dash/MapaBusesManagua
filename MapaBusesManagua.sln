@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapaBusesManagua", "MapaBusesManagua.csproj", "{4DEC2BCE-CD06-402A-ADFC-AFC6E74E861B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEC2BCE-CD06-402A-ADFC-AFC6E74E861B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEC2BCE-CD06-402A-ADFC-AFC6E74E861B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEC2BCE-CD06-402A-ADFC-AFC6E74E861B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEC2BCE-CD06-402A-ADFC-AFC6E74E861B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BA7BDD4-9BF7-4BAD-9099-345F0D07CD57}
+	EndGlobalSection
+EndGlobal
